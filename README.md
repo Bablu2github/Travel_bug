@@ -24,7 +24,7 @@ Check out [API LIVE DEMO](https://travel-bug-backend2.herokuapp.com/) here!!
 1. Git Clone
 
 ```
-git clone https://github.com/Cpoulis/Travel-Bug.git
+git clone https://github.com/Titibd/Travel-Bug.git
 ```
 
 2. Backend setting
