@@ -14,7 +14,7 @@ import { useSelector, useDispatch } from 'react-redux';
 import { fetchCategories } from '../reducks/categories/operations';
 import { fetchFromLocalStorage } from '../reducks/favorites/operations';
 
-import main from '../assets/img/main.png';
+import main from '../assets/img/backgroundimage.png';
 import glass from '../assets/img/magnifying-glass.png';
 import moustache from '../assets/img/moustache.svg';
 
